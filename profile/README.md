@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.pragmacell.be"><img src="banniere.png" alt="Pragma Cell — IT at the service of your business" width="100%"></a>
+  <a href="https://www.pragmacell.be"><img src="banniere-anime.gif" alt="Pragma Cell — IT at the service of your business" width="100%"></a>
 </p>
 
 <p align="center">
