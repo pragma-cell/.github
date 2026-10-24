@@ -29,7 +29,3 @@ IT is not an end in itself: it is a means to reach your goals.
 - **Step by step** — quick wins first, then scale up.
 - **Measurable** — every project starts from a concrete business goal.
 - **Self-sufficient** — by the end, your team owns its tools.
-
-### The name
-
-*Pragma* stands for pragmatism. *Cell* for the cell — and for **C**harlotte, **E**lise, **L**ouise and **L**ionel: the four pieces of the logo, a family business.
